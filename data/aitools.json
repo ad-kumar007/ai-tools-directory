@@ -55,6 +55,17 @@
     "features": ["Open-source", "Local deployment", "High customization", "Community models"]
   },
   {
+    "id": "26",
+    "name": "Remio",
+    "slug": "remio",
+    "category": "Productivity",
+    "description": "Remio is a local-first AI memory and knowledge base desktop app. It parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors so users can retrieve focused personal context instead of repeatedly scanning folders or loading whole documents into prompts.",
+    "pricing": "Freemium",
+    "logo": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=400&fit=crop",
+    "website": "https://remio.ai/",
+    "features": ["Local-first knowledge base", "Multi-format file parsing", "Personal context retrieval", "Vector indexing"]
+  },
+  {
     "id": "6",
     "name": "Jasper AI",
     "slug": "jasper-ai",
