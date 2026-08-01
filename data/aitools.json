@@ -273,5 +273,16 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "SaaSCity",
+    "slug": "saascity",
+    "category": "Productivity",
+    "description": "SaaSCity is a gamified SaaS and AI product directory where every approved listing becomes a building on a live isometric city map. Free listings are manually reviewed within 24 hours and get an indexed product page; paid tiers add a dofollow backlink and map placement.",
+    "pricing": "Freemium",
+    "logo": "https://saascity.io/og-image.png",
+    "website": "https://saascity.io",
+    "features": ["Live isometric city map", "Manual review in 24h", "Dofollow backlink", "Weekly launch cycles"]
   }
 ]
