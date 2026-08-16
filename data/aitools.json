@@ -273,5 +273,21 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "Agent QA",
+    "slug": "agent-qa",
+    "category": "Developer Tools",
+    "description": "Agent QA is a command-line tool for AI-assisted browser quality assurance. It lets developers define browser journeys in YAML, run them against web applications, and collect screenshots, console output, network details, and structured evidence for review. It can be used from its CLI or exposed over MCP for compatible clients. The package itself is free to install, but users supply credentials for supported AI providers and those providers may charge for model usage. The repository uses the Functional Source License 1.1, Apache 2.0 Future License; each release converts to Apache 2.0 two years after publication. It is aimed at engineering and QA teams that want reproducible, reviewable browser checks while keeping test definitions in version control.",
+    "pricing": "Free",
+    "logo": "https://github.com/vostride.png",
+    "website": "https://github.com/vostride/agent-qa",
+    "features": [
+      "YAML browser journey definitions",
+      "Reviewable browser evidence and artifacts",
+      "CLI and MCP interfaces",
+      "Configurable AI provider integrations"
+    ]
   }
 ]
