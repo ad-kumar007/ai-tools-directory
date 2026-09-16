@@ -273,5 +273,16 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "AI Tools Radar",
+    "slug": "ai-tools-radar",
+    "category": "Search Engine",
+    "description": "AI Tools Radar is an AI tools directory and editorial platform for discovering, comparing, and tracking AI products, with daily AI industry news and newsletter issues.",
+    "pricing": "Free",
+    "logo": "https://www.google.com/s2/favicons?domain=aitoolsradar.com&sz=128",
+    "website": "https://aitoolsradar.com/",
+    "features": ["AI tools directory", "Product discovery", "AI product comparison", "Daily AI news"]
   }
 ]
