@@ -264,6 +264,22 @@
     "features": ["AI page generation", "Copy generation", "Layout optimization", "Responsive design"]
   },
   {
+    "id": "26",
+    "name": "AI Fruit Video",
+    "slug": "ai-fruit-video",
+    "category": "Video Generation",
+    "description": "AI Fruit Video turns a short fruit-story idea into a funny talking-fruit video clip. Creators start with a prepared story, optionally add visual references, and pick from the available video settings. Ready-made fruit characters and scenes guide the look of each clip. The tool generates one short single-scene video that can be previewed and downloaded for sharing on TikTok, Instagram Reels, and YouTube Shorts. Free credits are included, with paid credit packs and subscriptions for more generations.",
+    "pricing": "Freemium",
+    "logo": "https://aifruitvideo.com/opengraph-image.jpg",
+    "website": "https://aifruitvideo.com",
+    "features": [
+      "Story-to-video generation",
+      "Ready-made fruit characters",
+      "Preview and download",
+      "Free credits included"
+    ]
+  },
+  {
     "id": "25",
     "name": "Beautiful.ai",
     "slug": "beautiful-ai",
