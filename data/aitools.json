@@ -273,5 +273,16 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "PhotoGenerAI",
+    "slug": "photogenerai",
+    "category": "Image Generation",
+    "description": "PhotoGenerAI creates and edits photos with AI — text-to-image, image-to-image, enhancement and style presets. Free to try in the browser without sign-up, with paid credit packs and subscriptions for more generations.",
+    "pricing": "Freemium",
+    "logo": "https://photogenerai.com/brand/logo-512.png",
+    "website": "https://photogenerai.com",
+    "features": ["Text-to-image generation", "AI photo editing", "No sign-up required", "Free credits included"]
   }
 ]
