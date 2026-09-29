@@ -273,5 +273,16 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "AI Room Makeover",
+    "slug": "ai-room-makeover",
+    "category": "Image Generation",
+    "description": "AI Room Makeover helps people preview a specific change in a photo of their real room before they buy, paint, move, or remodel anything. Upload a room photo, describe what you want to change, and optionally add a product or material reference image. The tool generates a makeover result while keeping the original space, viewpoint, and unmentioned objects as close to the source photo as possible.",
+    "pricing": "Freemium",
+    "logo": "https://airoommakeover.com/brand/logo-512.png",
+    "website": "https://airoommakeover.com",
+    "features": ["Photo-based room previews", "Specific-change editing", "Product and material reference images", "Preserves layout, viewpoint, and unmentioned objects"]
   }
 ]
