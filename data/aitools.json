@@ -273,5 +273,16 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
+  },
+  {
+    "id": "26",
+    "name": "RemoveMate",
+    "slug": "removemate",
+    "category": "Design",
+    "description": "RemoveMate brings AI background removal and image cleanup tools into one place. Upload a product, portrait or pet photo, remove its background, preview the cutout and download the result. Create clean visuals for product listings, social posts and personal projects.",
+    "pricing": "Freemium",
+    "logo": "https://removemate.com/brand/logo-512.png",
+    "website": "https://removemate.com",
+    "features": ["AI background removal", "Object & text removal", "Watermark remover", "Image unblur"]
   }
 ]
