@@ -273,5 +273,21 @@
     "logo": "https://images.unsplash.com/photo-1542744094-3a31f272c490?w=400&h=400&fit=crop",
     "website": "https://www.beautiful.ai",
     "features": ["Auto-design", "Smart templates", "Team collaboration", "Brand consistency"]
-  }
+  },
+{
+  "id": "26",
+  "name": "Orkas",
+  "slug": "orkas",
+  "category": "Productivity",
+  "description": "Orkas is an open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents in parallel or sequence through one chat. It brings research, coding, data analysis and documents into a local desktop workspace, helping users carry a goal through coordinated agent work. Users can choose the model provider for their work rather than treating a specific hosted model as the product itself. Packaged installers are available for macOS and Windows; Linux can be run from source. The core application is free, while model usage and optional services may cost extra. Its public source code is available under the MIT License.",
+  "pricing": "Free",
+  "logo": "https://raw.githubusercontent.com/Orkas-AI/Orkas/main/src/resources/icons/logo.png",
+  "website": "https://orkas.ai/?source=dir_iotatools",
+  "features": [
+    "Free open-source core; model costs may apply",
+    "Local-first desktop workspace",
+    "Commander-led agent coordination",
+    "Research, coding, data analysis and documents"
+  ]
+}
 ]
